@@ -8,7 +8,7 @@ Our software development and delivery system includes an automated pipeline whic
 
 An AWS CodePipeline service provides the stages, transitions and executions for a 'source-compile-package-deploy' sequence. From a Git push in the local development environment, to the final remote deployment by the AWS CloudFormation service, I use AWS microservices to manage and automate the procedure. I have ensured that changes in the CodeCommit repository are detected from source push, not from CodeBuild polling.
 
-![Request_response_sequence_diagram](https://github.com/PaulGreer1/TheGardenersWeb/blob/main/REQUEST_RESPONSE_SEQUENCE_DIAGRAM.png)
+![Request_response_sequence_diagram](https://github.com/PaulGreer1/AwsCicdAutoPipeline/blob/main/AwsCicdAutoPipelineInSdds.png)
 
 #### 5. Monitoring the pipeline
 
