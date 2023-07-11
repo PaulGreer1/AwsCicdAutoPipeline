@@ -1,7 +1,7 @@
-![Request_response_sequence_diagram](https://github.com/PaulGreer1/WebsiteLamp/blob/main/UKAPPCODER_002.png)
-
 ## AwsCicdAutoPipeline
+
 Automated AWS pipeline which compiles, packages and deploys software artefacts.
+
 ### Project: AwsCicdAutoPipeline 2022 - 2023
 
 #### Overview
